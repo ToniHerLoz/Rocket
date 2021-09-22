@@ -5,7 +5,7 @@ The game automatically detects the changes and will reload the level again.
 
 ## :tv: Video  
 
-[![GO TO VIDEO](https://user-images.githubusercontent.com/59538289/134344258-25fb8e4c-4f46-49ab-858a-10caac78e044.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![GO TO VIDEO](https://user-images.githubusercontent.com/59538289/134344258-25fb8e4c-4f46-49ab-858a-10caac78e044.png)](https://youtu.be/MI16JYbNWzg)
 (Click picture to go youtube)
 
 ## :floppy_disk: How to install?
