@@ -25,6 +25,5 @@
 8. Launch game and write in console:
    - MountPak PakPath -> MountPak D:\Survival.pak -> Console return success
    - Open LevelName -> Open testmapa
-
- 
-9. Now edit your map and click in Rocket buttom
+9. Now edit your map and click in Rocket buttom the game will automatically reload the map with the changes. 
+10. Remove "Rocket" from your map when you share it.
