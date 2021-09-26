@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1",
+	"FriendlyName": "Rocket",
+	"Description": "HotReload Mordhau ",
+	"Category": "Other",
+	"CreatedBy": "Raspikx",
+	"CreatedByURL": "https://github.com/raspikx/Rocket/",
+	"DocsURL": "https://github.com/raspikx/Rocket/",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Rocket",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
