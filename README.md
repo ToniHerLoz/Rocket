@@ -9,8 +9,9 @@ The game automatically detects the changes and will reload the level again.
 (Click picture to go youtube)
 ## Changelog
 
-1.0 Init Release
-1.1 Add Save Current Level 
+  1.0 Init Release
+
+  1.1 Add Save Current Level 
 
 ## :floppy_disk: How to install?
 
