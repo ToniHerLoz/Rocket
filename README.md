@@ -12,7 +12,9 @@ The game automatically detects the changes and will reload the level again.
   1.0 Init Release
 
   1.1 Add Save Current Level 
-  1.1 Update 4.25-Plus Engine
+  
+  
+ Update 4.25-Plus Engine
 
 ## :floppy_disk: How to install?
 
