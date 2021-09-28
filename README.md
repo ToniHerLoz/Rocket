@@ -5,7 +5,7 @@ The game automatically detects the changes and will reload the level again.
 
 ## :tv: Video  
 
-[![GO TO VIDEO](https://user-images.githubusercontent.com/59538289/134344258-25fb8e4c-4f46-49ab-858a-10caac78e044.png)](https://youtu.be/MI16JYbNWzg)
+[![GO TO VIDEO](https://user-images.githubusercontent.com/59538289/134344258-25fb8e4c-4f46-49ab-858a-10caac78e044.png)](https://youtu.be/amj897Ny-YU)
 (Click picture to go youtube)
 ## Changelog
 
